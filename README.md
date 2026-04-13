@@ -1,2 +1,2 @@
-# CyberShieldAI-Final
+# CyberShieldAI
 Complete 3-in-1 Cybersecurity Web App with AI Detection
